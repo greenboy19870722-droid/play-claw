@@ -34,10 +34,7 @@
 3. 首次启动需完成基础配置（如 API Key 填写）；
 4. 根据授权套餐，使用对应功能（Pro/Premium 需激活授权码）。
 
-## 🔑 授权激活
 
-- Pro 版：机器码绑定（一机一码），联系作者获取授权码后在「授权页面」激活；
-- Premium 版：账号绑定（有效期1个月），激活后解锁全部功能。
 
 ## ⚠️ 免责声明
 
@@ -49,7 +46,6 @@
 
 - 邮箱：greenboy19870722@gmail.com
 - 购买/激活授权码：
-  - [[专业版9.9元终身]](https://item.taobao.com/item.htm?id=1027888970003&spm=a213gs.v2success.0.0.31784831Ul3hpG)
   - [[致富版99元/月]](https://item.taobao.com/item.htm?id=1030124343931&spm=a213gs.v2success.0.0.18fe4831bIEC99)
 
 
